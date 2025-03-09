@@ -6,9 +6,12 @@
 - ### Uso
   Permitir a los usuarios ingresar nombres y ralizar un sorteo aleatorio para determinar el amigo secreto.
 - ### Características
-  La aplicación permite que se agregue un nombre a través de un campo de texto y de un botón de "Añadir"
+  -La aplicación permite que se agregue un nombre a través de un campo de texto y de un botón de 
+   "Añadir"
   ![image alt](https://github.com/hibrisrob/Challenge/blob/master/assets/digite.png)
-- [Características](#características)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+  -Si un usuario intenta añadir un nombre vacío, aparecerá un mensaje de alerta indicando que se   inserte un nombre.
+   ![image alt](https://github.com/hibrisrob/Challenge/blob/master/assets/inserte.png)
+  -Al clickear en el botón "Sortear Amigo", la aplicación escogerá un nombre aleatorio y 
+  aparecerá en pantalla:
+   ![image alt](https://github.com/hibrisrob/Challenge/blob/master/assets/amigosorteado.png)
+  
