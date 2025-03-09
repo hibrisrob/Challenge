@@ -1,12 +1,8 @@
 ![image alt](https://github.com/hibrisrob/Challenge/blob/master/assets/amigo-secreto.png)
 
 <h1>Amigo Secreto</h1>
-# Nombre del Proyecto
 
-![Badge de Estado](https://img.shields.io/badge/Estado-En%20desarrollo-brightgreen) <!-- Opcional: Muestra el estado del proyecto -->
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue) <!-- Opcional: Agrega una licencia -->
-
-Breve descripción del proyecto (1-2 líneas). Explica de manera clara y concisa qué hace tu proyecto y por qué es útil.
+Este proyecto permite a los usuarios ingresar los nombres de sus amigos y realizar un sorteo aleatorio para determinar quién es el amigo secreto.
 
 ---
 
