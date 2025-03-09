@@ -9,7 +9,7 @@ Este proyecto permite a los usuarios ingresar los nombres de sus amigos y realiz
 ## Tabla de Contenidos
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Características](#características)
+- Características:(#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
