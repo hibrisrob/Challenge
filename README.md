@@ -1,4 +1,4 @@
-![image alt]([https://github.com/hibrisrob/Challengeamigosecreto/blob/main/Imagen1.png?raw=true](https://github.com/hibrisrob/Challenge/blob/master/assets/amigo-secreto.png))
+![image alt](https://github.com/hibrisrob/Challenge/blob/master/assets/amigo-secreto.png)
 
 <h1>Amigo Secreto</h1>
 # Nombre del Proyecto
